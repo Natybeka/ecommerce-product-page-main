@@ -8,7 +8,7 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
     -[Mobile](#mobile-screen-shots)
-    -[Mobile-2](#
+    -[Mobile-2](#more-mobile-screen-shots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -31,10 +31,10 @@ Users should be able to:
 
 ### Screenshot
 
-####Mobile screen shots
+#### Mobile screen shots
 ![](./screenshot-mobile-1.png)
 
-####More mobile screen shots
+#### More mobile screen shots
 Here is what the layout looks like when the 
 menu activated
 ![](./screenshot-mobile-2.png)
