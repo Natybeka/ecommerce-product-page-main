@@ -1,12 +1,14 @@
 # Frontend Mentor - E-commerce product page
 This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6).
-![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the E-commerce product page coding challenge](./assets/design/desktop-preview.jpg)
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+    -[Mobile](#mobile-screen-shots)
+    -[Mobile-2](#
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -29,10 +31,11 @@ Users should be able to:
 
 ### Screenshot
 
-Mobile screen shots
+####Mobile screen shots
 ![](./screenshot-mobile-1.png)
 
-Here is what the layout looks like with the cart
+####More mobile screen shots
+Here is what the layout looks like when the 
 menu activated
 ![](./screenshot-mobile-2.png)
 
